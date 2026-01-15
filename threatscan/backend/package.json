@@ -1,5 +1,28 @@
 {
   "name": "threatscan-backend",
   "version": "1.0.0",
-  "dependencies": {}
+  "type": "module",
+  "description": "ThreatScan backend API",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "ts-node-esm src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.16.0",
+    "fastify": "^4.26.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.3.3"
+  }
 }

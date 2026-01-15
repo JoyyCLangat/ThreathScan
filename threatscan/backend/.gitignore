@@ -1,0 +1,8 @@
+# Create backend .gitignore
+@"
+node_modules/
+.env
+.env.local
+dist/
+*.log
+"@ | Out-File -FilePath threatscan\backend\.gitignore -Encoding utf8
