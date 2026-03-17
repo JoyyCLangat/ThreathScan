@@ -1,8 +1,10 @@
 // create-wallet.ts - Generate a test wallet for development
 import { ethers } from "ethers";
 
+
 console.log("\n🔑 ThreatScan Wallet Generator\n");
 console.log("=".repeat(60));
+
 
 // Generate a new random wallet
 const wallet = ethers.Wallet.createRandom();
