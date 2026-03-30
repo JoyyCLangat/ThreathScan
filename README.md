@@ -25,6 +25,7 @@ This project demonstrates a real-world **agentic commerce** system where detecti
 - **Frontend:** Next.js + Tailwind (optional dashboard)
 - **Database:** SQLite (prototype) / PostgreSQL (production-ready)
 
+
 ---
 
 ## 📦 Setup & Installation
