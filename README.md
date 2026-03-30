@@ -458,6 +458,7 @@ Dashboard URL (local): `http://localhost:3000/dashboard`
 4. **Code Examples:** More real-world agentic commerce examples
 5. **Monitoring Dashboard:** Built-in analytics for wallet activity
 
+
 ---
 
 ## 🎓 Learning Resources
