@@ -53,6 +53,7 @@ cp .env.example .env
 # Add your Circle API keys, Arc RPC URL, agent config
 ```
 
+
 **Required Environment Variables:**
 
 ```env
