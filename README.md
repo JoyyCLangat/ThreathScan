@@ -80,6 +80,7 @@ X402_FACILITATOR_ADDRESS=<circle_provided>
 DATABASE_URL=sqlite:./threatscan.db
 ```
 
+
 ### 4. Deploy Smart Contracts
 
 ```bash
