@@ -83,7 +83,6 @@ DATABASE_URL=sqlite:./threatscan.db
 
 
 ### 4. Deploy Smart Contracts
-
 ```bash
 cd contracts
 npm install
